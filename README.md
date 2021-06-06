@@ -1,4 +1,4 @@
-# **Speech analysis and Text classification** 
+# **Final-Project : Speech and text classification for sentiment analysis**
 ##Introduction
 Text and speech classification models are the future in terms of mental health illness diagnosis as depression. According to the World Health Organization (WHO), 322 million people worldwide suffer from depression. The objective of this investigation is to analyze some of the newest models for classification to determine whether they are a good tool that doctors and therapists could use un a near future.  
 
@@ -27,13 +27,13 @@ Despite having some trouble at the beginig with EmoAudioNet we ended up getting 
 This models can be used in the future for an acurrate sentiment classification that could help specialists in mental health areas.
 
 
-# Cómo correr los códigos
-# Final-Project : Speech and text classification for sentiment analysis
-## EmoAudioNet
+## Cómo correr los códigos
+
+### EmoAudioNet
 Para este modelo se deben usar los archivos de la carpeta data --> ColabTrainingFiles.
-## BERT + LSTM
+### BERT + LSTM
 El dataset utilizado es IEMOCAP y se encuentra en la carpeta data--> text_audio.csv
-## BERT 
+### BERT 
 El dataset para correr el clasificador de sentimientos se encuentra en el folder data-->DATASET_PROYECTO_NLP.csv el cual también pertenece al dataset de IEMOCAP.
 
 En la siguiente liga se encuentra el checkpoint del entrenamiento de dicho modelo. 
